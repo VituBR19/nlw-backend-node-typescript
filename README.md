@@ -1,20 +1,14 @@
-<<<<<<< HEAD
-# Funcionalidades
+# Proffy - API Restfull
 
-## Conexões
+  Backend project made to connects students and teachers online!
 
-- Rota para informar a quantidade de pessoas que fizeram uma conexão com os professores
-- Rota para criar uma conexão com os professores
+## 👨‍💻 Technology
+Project built with the following technologies:
 
-## Aulas
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [Typescript](https://www.typescriptlang.org/)
 
-- Rota para criar uma aula
-- Rota para listar aulas criadas
-  - Filtrar aulas por:
-    - [ ] Matéria
-    - [ ] Dia da semana
-    - [ ] Horário
-=======
-# nlw-backend-node-typescript
-Backend develop from Next Level Week Proffy project by RocketSeat
->>>>>>> 1e0c7d5e234edaf4143913b56c91507118a5ce70
+## 🤔 How to use
+  First of all you need to have `npm` or `yarn` installed on your computer.
+  Then all you need to do is clone the repository and run on your terminal `npm i` if you are using `npm`, or just `yarn` if you are using `yarn`.
